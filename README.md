@@ -8,13 +8,13 @@ The **Christmas List Maker** is a web application inspired by easily-lost handwr
 
 #### Features:
 **Christmas List Maker** users can:
-*Create a password-protected group.
-*Add names of people to your group.
-*Randomly assign any number of recipients to each gift giver. (Manual assignment feature coming sometime before December 2099!)
-*Make a password for each member of your group
+* Create a password-protected group.
+* Add names of people to your group.
+* Randomly assign any number of recipients to each gift giver. (Manual assignment feature coming sometime before December 2099!)
+* Make a password for each member of your group
 Each group member can:
-*Make a Christmas list for yourself that other gift-givers can see.
-*Mark the gifts from others' list you have bought. Other gift givers can see which gift you bought, but the recipient cannot!
+* Make a Christmas list for yourself that other gift-givers can see.
+* Mark the gifts from others' list you have bought. Other gift givers can see which gift you bought, but the recipient cannot!
 Write notes to other gift givers.
 
 ---
