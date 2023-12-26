@@ -28,16 +28,16 @@ Dependencies include: Express, SQLite, bcrypt (for encrypting access codes), bod
 
 The src folder contains front-end components, utilities, and styling organized as follows:
 
-*Assets: Images
-*Components: Repeated peices of code used throughout the project, such as borders and buttons, as React components.
-*Context: Holds data to be used in many components. In this case, data from the current user's Christmas list is stored here.
-*Data: Holds Typescript types, interfaces, and temporary data used to aid development.
-*Hooks: Contains custom React hooks.
-*Layouts: Contains layouts used with React Router to provide stylistic consistency between pages.
-*Pages: Holds React components that encompass a full page. Also holds custom CSS files used with each page.
-*Services: Contains API functions
-*Theme: Contains Material UI theme
-*Utils: Holds front-end utility functions.
+* Assets: Images
+* Components: Repeated peices of code used throughout the project, such as borders and buttons, as React components.
+* Context: Holds data to be used in many components. In this case, data from the current user's Christmas list is stored here.
+* Data: Holds Typescript types, interfaces, and temporary data used to aid development.
+* Hooks: Contains custom React hooks.
+* Layouts: Contains layouts used with React Router to provide stylistic consistency between pages.
+* Pages: Holds React components that encompass a full page. Also holds custom CSS files used with each page.
+* Services: Contains API functions
+* Theme: Contains Material UI theme
+* Utils: Holds front-end utility functions.
 
 The main folder also contains the index.html page, which is the base page for the React app, as well as front-end package.json and typescript configuration files.
 
