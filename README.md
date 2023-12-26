@@ -15,7 +15,7 @@ The **Christmas List Maker** is a web application inspired by easily-lost handwr
 Each group member can:
 * Make a Christmas list for yourself that other gift-givers can see.
 * Mark the gifts from others' list you have bought. Other gift givers can see which gift you bought, but the recipient cannot!
-Write notes to other gift givers.
+* Write notes to other gift givers.
 
 ---
 
@@ -27,7 +27,6 @@ The server folder contains the index.js file which holds the routes that communi
 Dependencies include: Express, SQLite, bcrypt (for encrypting access codes), body-parser (for parsing the body from API requests), cors(for allowing cross-origin communication), express-session (for storing information in sessions), cookie-parser (for reading the cookies saved in sessions), and uuid (for creating random ids).
 
 The src folder contains front-end components, utilities, and styling organized as follows:
-
 * Assets: Images
 * Components: Repeated peices of code used throughout the project, such as borders and buttons, as React components.
 * Context: Holds data to be used in many components. In this case, data from the current user's Christmas list is stored here.
