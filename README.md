@@ -54,9 +54,9 @@ I used this project to focus on technical skills from many of the courses I am c
 I considered using HTML, CSS, Flask, and Python to complete this project. However, I found React, Typescript, and Express to be more in line with the skills I needed to practice to achieve my professional goals.
 
 Some skills I needed to learn completely on my own because they were not present in this course or any other I am taking were:
-*Integrating SQLite3 with Express
-*Using Material UI and Material UI custom themes
-*Deploying a web application which uses separate origins for the front and back end.
+* Integrating SQLite3 with Express
+* Using Material UI and Material UI custom themes
+* Deploying a web application which uses separate origins for the front and back end.
 
 **No project is ever completely finished! Here are some of the features and issues that need to be revisited:**
 
