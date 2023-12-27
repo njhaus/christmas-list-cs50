@@ -59,7 +59,9 @@ Some skills I needed to learn completely on my own because they were not present
 * Using Material UI and Material UI custom themes
 * Deploying a web application which uses separate origins for the front and back end.
 
-**No project is ever completely finished! Here are some of the features and issues that need to be revisited:**
+---
+
+####No project is ever completely finished! Here are some of the features and issues that need to be revisited:####
 
 Presently, the database file is found in the server folder. this seems like an insecure way to store data (even if the passwords are encrypted). I will do further research to find the most secure way to store a SQLite database on a deployed project.
 
